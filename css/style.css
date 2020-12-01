@@ -1,0 +1,27 @@
+/**#048855  #f27c28  #f5c622**/
+ 
+.H-100{
+	height: 100vh;
+}
+.left-section{
+	background-color: #f27c28; 
+	height: 100%;
+	width: 100%
+
+}
+
+body{
+	margin: 0;
+	padding: 0;
+	
+}
+
+
+@media screen and (max-width: 728px){
+
+	.overflow-auto{
+		width: 100vw
+	}
+
+}
+
