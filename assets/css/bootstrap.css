@@ -5899,7 +5899,7 @@ fieldset:disabled .btn {
   align-items: center;
   justify-content: center;
   width: 15%;
-  color: #fff;
+  color: #000;
   text-align: center;
   opacity: 0.5;
   transition: opacity 0.15s ease;

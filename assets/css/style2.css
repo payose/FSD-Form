@@ -1234,7 +1234,7 @@ label {
 }
 
 .button:hover {
-	background: #048855dd
+	background: #dddd
 }
 
 .hero {
@@ -1543,7 +1543,7 @@ label {
 	display: flex;
 	flex-direction: column;
 	min-height: 100vh; 
-	background: linear-gradient(rgba(9, 8, 0, 0.6), #0488), url("../img/cover1.jpg") ;	
+	background: linear-gradient( #222d, #0488), url("../images/cover1.jpg") ;	
 }
 
 .boxed-container {
